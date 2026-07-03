@@ -1,0 +1,15 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# IDE files
+.idea/
+*.iml
+
+# Bootstrapped SDK/tools folder (crucial to ignore this!)
+tools/
+
+# OS files
+.DS_Store
+Thumbs.db
